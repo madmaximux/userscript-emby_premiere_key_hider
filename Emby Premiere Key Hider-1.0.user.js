@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Emby Premiere Key Hider
-// @namespace    http://tampermonkey.net/
-// @version      1.0
-// @description  Adds a persistent Show/Hide button for Emby Premiere key
+// @namespace    https://github.com/madmaximux/userscript-emby_premiere_key_hider
 // @author       Madmaximux (https://github.com/madmaximux)
+// @description  Adds a persistent Show/Hide button for Emby Premiere key
+// @license      MIT
+// @version      1.0
 // @match        *://*/web/index.html*
 // @grant        none
 // @run-at       document-end
